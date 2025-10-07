@@ -1,47 +1,47 @@
-<!-- 🌌 Animated Universe Header -->
+<!-- 🌌 RAIN'S COSMIC PROFILE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="80">
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rain+(Yu-Chen+Lee)!;Data+Analyst+%26+Operations+Leader;Exploring+the+Universe+of+Business+Analytics+✨" alt="Typing SVG" />
-  
-  <!-- Space Background GIF -->
-  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=1000&color=A9A9A9&center=true&vCenter=true&width=700&lines=Hi!+I'm+Rain+(Yu-Chen+Lee)!;Exploring+the+Universe+of+Data+Analytics;Retail+E-commerce+Operations+Leader;MSBAIM+Student+@+Purdue+University)
+
+
 </div>
+
 
 ---
 
 # 👋 Hi there, I'm Rain (Yu-Chen Lee)!
 
-❤️‍🔥 Passionate about **Data Analytics**, **Business Insights**, and **Operations Optimization**  
+💫 Passionate about **Data Analytics**, **Business Insights**, and **Operations Optimization**  
 💼 Former Director of Operations in retail e-commerce, driving data-driven efficiency  
 🎓 Currently pursuing MSBAIM at **Purdue University**
 
 ---
 
 ### ⚙️ Tech & Tools
-Python | SQL | Power BI | Looker Studio | AWS | Excel | Tableau
+`Python` • `SQL` • `Power BI` • `Looker Studio` • `AWS` • `Tableau` • `Excel`
 
 ---
 
-### 🌱 What I’m Working On
-- Building analytics dashboards for retail and e-commerce data  
-- Exploring data governance and automation with Python & AWS  
-- Learning advanced ML applications for business analytics  
+### 🌌 What I’m Exploring
+🚀 Data-driven decision-making across retail and technology  
+🪐 Machine learning applications in real-world business  
+🌠 Data automation & visualization for scalable impact  
 
 ---
 
 ### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RainLee-blue)](https://www.linkedin.com/in/yourlinkedinurl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RainLee-00E7FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinurl)
 [![GitHub](https://img.shields.io/github/followers/yuchenlee427?label=Follow&style=social)](https://github.com/yuchenlee427)
 
 ---
 
 <div align="center">
 
-<img src="intro.gif" width="500"/>
+<p>✨ Thanks for visiting ✨</p>
 
 </div>
+
+
 
 
 <!--
