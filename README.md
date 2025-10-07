@@ -1,9 +1,12 @@
+<!-- 🌌 Animated Universe Header -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rain+(Yu-Chen+Lee)!;Data+Analyst+%26+Operations+Leader;MSBAIM+Student+@+Purdue+University)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
-
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="80">
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Hi!+I'm+Rain+(Yu-Chen+Lee)!;Data+Analyst+%26+Operations+Leader;Exploring+the+Universe+of+Business+Analytics+✨" alt="Typing SVG" />
+  
+  <!-- Space Background GIF -->
+  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
 </div>
 
 ---
